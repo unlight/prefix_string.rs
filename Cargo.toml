@@ -1,0 +1,9 @@
+[package]
+name = "prefix_string"
+version = "1.0.0"
+edition = "2018"
+description = "Takes a string, and prefixes it with prefix unless it is already prefixed that way"
+license = "MIT"
+keywords = ["prefix", "prefix-string"]
+
+[dependencies]
